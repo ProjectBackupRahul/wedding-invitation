@@ -9,7 +9,7 @@ import WeadingDetails from './components/WeadingDetails2';
 import Invitation from './components/Invitation';
 import Weadingloaction from './components/Weadingloaction'
 import Contact from './components/Contact';
-
+import BackgroundMusic from './components/BackGroundMusic';
 function App() {
   return (
     <div className="App">
@@ -20,6 +20,7 @@ function App() {
      <Weadingloaction />
      <WeadingDetails />
      <Contact />
+
     </div>
   );
 }

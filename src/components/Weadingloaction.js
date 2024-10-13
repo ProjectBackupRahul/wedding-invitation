@@ -22,10 +22,14 @@ const Weadingloaction = () => {
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Bajkul, Purba Medinipur, West Bengal</p>
                             <p>
-							<div className="map-responsive">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8499.493135514864!2d88.12450762641483!3d23.1994848894548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8e02d95791d4ac14!2sSri%20Krishna%20Lodge!5e1!3m2!1sen!2sin!4v1569311071805!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe>
-                            </div>
+						  	<div className="map-responsive">
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.292032702797!2d87.81766882534974!3d22.02547540280055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02dd3d6e717b11%3A0x45975c31ac6076c2!2sMadhavdip%20Utsav%20Vaban!5e1!3m2!1sen!2sin!4v1728838825455!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe> 
+
+						 
+                            </div>   
 							</p>
+
+						
 
 						</div> 
 						
@@ -44,8 +48,8 @@ const Weadingloaction = () => {
                             <p>Sripur, Jagannathpur, Paschim Medinipur, West Bengal</p>
                             <p>
 							<div className="map-responsive">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2123.7883875184198!2d86.84660770000002!3d23.2912535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6544f5ed7e695%3A0x3adc28474ade4d80!2zMjPCsDE3JzI5LjMiTiA4NsKwNTAnNTMuMiJF!5e1!3m2!1sen!2sin!4v1569310856411!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe>
-                                </div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7651.2274430806765!2d87.74976735869143!3d22.488674353314536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02a5cc4907587d%3A0x668de0f769a66cfa!2sSAMANTA%20BHAVAN!5e1!3m2!1sen!2sin!4v1728839226821!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe>
+                                </div> 
 								</p>
 						</div> 
 						

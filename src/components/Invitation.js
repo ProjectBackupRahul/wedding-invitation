@@ -42,6 +42,8 @@ const Invitation = () => {
                                     <h3>Labani Santra</h3>
                                     <h5>D/O Sahadev Santra</h5>
                                     <h5>Sonali Santra</h5>
+                                    <h5>Grand D/O Lt Prafulla Santra</h5>
+                                    <h5>Subhashini Santra </h5>
                                 </div>
                             </div>
                         </div>
