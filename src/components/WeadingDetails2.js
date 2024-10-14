@@ -11,7 +11,7 @@ const WeadingDetails = () => {
         <section className="section w-details-area center-text">
             <div className="container">
                 <div className="row">
-                    <div className="col-sm-12">     ``
+                    <div className="col-sm-12">     
                         <div className="heading">
                             <span> </span>
                             <h2 className="title">The Ceremony</h2>
@@ -27,7 +27,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h4 className="timeline-title">Ashirbad (আশীর্বাদ) </h4>
-                                        <span className="date">November 26, 2024 : Moning </span>
+                                        <span className="date">November 26, 2024 : Morning </span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>The ritual where the bride and groom are blessed by elders with rice and grass for a prosperous and happy married life.</p>
@@ -41,7 +41,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h4 className="timeline-title">Aiburobhat (আইবুড়োভাত)</h4>
-                                        <span className="date"><i className="icon icon-date"></i>November 26, 2024 : Eveing  </span>
+                                        <span className="date"><i className="icon icon-date"></i>November 26, 2024 : Evening  </span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>The ritual where the bride or groom enjoys their last meal as an unmarried person, surrounded by family and friends, signifying the end of their bachelorhood.</p>
@@ -68,7 +68,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h4 className="timeline-title">Subha Bibaha (শুভ বিবাহ)</h4>
-                                        <span className="date"><i className="icon icon-date"></i>November 27, 2024 :Eveing</span>
+                                        <span className="date"><i className="icon icon-date"></i>November 27, 2024 :Evening</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>
@@ -81,7 +81,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h4 className="timeline-title"> Reception (বধূ বরণ) </h4>
-                                        <span className="date">November 29, 2024: :Eveing</span>
+                                        <span className="date">November 29, 2024: :Evening</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>The Reception in a Bengali wedding is a celebratory event where the bride is warmly welcomed into her new family, and guests gather to feast and bless the newlywed couple.</p>
