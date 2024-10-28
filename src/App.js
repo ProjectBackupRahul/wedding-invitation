@@ -9,10 +9,14 @@ import WeadingDetails from './components/WeadingDetails2';
 import Invitation from './components/Invitation';
 import Weadingloaction from './components/Weadingloaction'
 import Contact from './components/Contact';
-import BackgroundMusic from './components/BackGroundMusic';
+import BackGroundMusic from './components/BackGroundMusic';
+
 function App() {
+  
   return (
+    
     <div className="App">
+       
       <Header />
      <WeadingDate />
      <CountDown />
@@ -20,7 +24,7 @@ function App() {
      <Weadingloaction />
      <WeadingDetails />
      <Contact />
-
+    <BackGroundMusic />
     </div>
   );
 }
